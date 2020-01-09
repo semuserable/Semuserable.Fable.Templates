@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "semuserable",
+  "classifications": [ "Fable", "Empty" ],
+  "identity": "Semuserable.Fable.Template.Empty",
+  "name": "Fable empty template",
+  "shortName": "fable-empty",
+  "tags": {
+    "language": "[F#]",
+    "type": "project"
+  }
+}

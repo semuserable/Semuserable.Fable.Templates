@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageType>Template</PackageType>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageId>Semuserable.Fable.Templates</PackageId>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <Title>Fable Templates</Title>
+    <Authors>Semuserable</Authors>
+    <Description>Fable templates</Description>
+    <PackageTags>dotnet-new;templates;Fable</PackageTags>
+	<PackageProjectUrl>https://github.com/semuserable/Semuserable.Fable.Templates</PackageProjectUrl>
+    <PackageReleaseNotes>https://github.com/semuserable/Semuserable.Fable.Templates/blob/master/RELEASE_NOTES.md</PackageReleaseNotes>
+
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <ContentTargetFolders>content</ContentTargetFolders>
+  </PropertyGroup>
+  
+  <ItemGroup>
+	<Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
+    <Compile Remove="**\*" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "semuserable",
+  "classifications": [ "Fable", "React", "SPA" ],
+  "identity": "Semuserable.Fable.Template.React",
+  "name": "Fable React template",
+  "shortName": "fable-react",
+  "tags": {
+    "language": "[F#]",
+    "type": "project"
+  }
+}
