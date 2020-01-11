@@ -1,3 +1,5 @@
+[![NuGet Info](https://buildstats.info/nuget/semuserable.fable.templates)](https://www.nuget.org/packages/semuserable.fable.templates/)
+
 # What's inside
 
 Fable minimal templates with the most recent versions of `npm` and `dotnet` libraries. Each template contains `README.md` with instructions, but usually it's just a simple `npm install && dotnet build && npm start`.
