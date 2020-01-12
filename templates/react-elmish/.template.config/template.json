@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "semuserable",
+  "classifications": [ "Fable", "React", "Elmish", "SPA" ],
+  "identity": "Semuserable.Fable.Template.ReactElmish",
+  "name": "Fable React Elmish App",
+  "shortName": "fable-react-elmish",
+  "tags": {
+    "language": "[F#]",
+    "type": "project"
+  }
+}

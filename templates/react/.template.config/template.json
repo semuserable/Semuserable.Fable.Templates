@@ -3,7 +3,7 @@
   "author": "semuserable",
   "classifications": [ "Fable", "React", "SPA" ],
   "identity": "Semuserable.Fable.Template.React",
-  "name": "Fable React template",
+  "name": "Fable React App",
   "shortName": "fable-react",
   "tags": {
     "language": "[F#]",

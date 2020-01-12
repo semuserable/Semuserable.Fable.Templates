@@ -3,7 +3,7 @@
   "author": "semuserable",
   "classifications": [ "Fable", "Empty" ],
   "identity": "Semuserable.Fable.Template.Empty",
-  "name": "Fable empty template",
+  "name": "Fable Empty App",
   "shortName": "fable-empty",
   "tags": {
     "language": "[F#]",
