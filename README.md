@@ -7,7 +7,7 @@
 
 # What's inside
 
-Fable minimal templates with the most recent versions of `npm` and `dotnet` libraries. Each template contains `README.md` with instructions, but usually it's just a simple `npm install && dotnet build && npm start`.
+Fable minimal templates with the most recent versions of `npm` and `dotnet` libraries. Each template contains `README.md` with instructions, but usually it's just a simple `npm install && npm start`.
 
 - `fable-empty` contains `Fable` without `React` or `Elmish`
 	- `npm` libs
