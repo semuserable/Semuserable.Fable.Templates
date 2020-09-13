@@ -28,7 +28,7 @@ let inline horse sound = ofType<Horse,_,_> { sound = sound } []
 type Cow(props) =
     inherit PureStatelessComponent<AnimalProps>(props)
    
-    override this.render() = h1 [] [ str "I'm a horse! I do "; str props.sound ]
+    override this.render() = h1 [] [ str "I'm a Cow! I do "; str props.sound ]
 
 let inline cow sound = ofType<Cow,_,_> { sound = sound } []
 
