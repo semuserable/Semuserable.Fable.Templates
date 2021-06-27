@@ -1,3 +1,9 @@
+## 1.3.2 (27.06.2021)
+
+* `fable-empty` npm and fsproj packages upgraded
+* `fable-react` npm and fsproj packages upgraded
+* `fable-react-elmish` npm and fsproj packages upgraded
+ 
 ## 1.3.1 (13.09.2020)
 
 * `fable-empty` npm and fsproj packages upgraded
