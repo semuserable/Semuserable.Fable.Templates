@@ -14,7 +14,7 @@ module.exports = {
         filename: "bundle.js",
     },
     devServer: {
-        contentBase: contentFolder,
+        static: contentFolder,
         port: 8080,
     },
     module: {

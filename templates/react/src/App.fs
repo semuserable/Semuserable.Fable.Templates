@@ -12,7 +12,7 @@ let Dog (props: AnimalProps) =
 let inline dog sound = ofFunction Dog { sound = sound } []
 
 let Cat = FunctionComponent.Of(fun (props: AnimalProps) ->
-   h1 [] [ str "I'm a cat! Your message is: "; str props.sound ]
+   h1 [] [ str "I'm a cat! I do "; str props.sound ]
 , "Cat")
 
 let inline cat sound = Cat { sound = sound }
